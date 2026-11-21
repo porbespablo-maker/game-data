@@ -1,6 +1,8 @@
 {
   "latestVersion": "0.1.0a",
-  "newsTitle": "Alpha Version released!",
-  "newsBody": "Placeholdertext",
-  "downloadUrl": ""
+  "newsTitle": "IMPORTANT",
+  "newsBody": "The game is still on Alpha build, expect bugs.",
+  "updateTitle": "PlaceHolder",
+  "updateBody": "- Added support for older videocards.",
+  "websiteUrl": "https://placeholder-website.com"
 }
